@@ -1,2 +1,5 @@
 #include <stdio.h>
-printf("hello")
+int main(){
+  printf("<h1>hello, Hongik~</h1>\n");
+  return 0;
+}
